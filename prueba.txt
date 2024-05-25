@@ -1,3 +1,5 @@
 esto es una prueba
 
 cambio git config --global core.editor "code --wait"
+
+quien sabe que puede estar pasando
