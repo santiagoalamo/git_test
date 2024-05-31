@@ -1,0 +1,47 @@
+[33mcommit 16401155d2d6c9cd38def346a8465780804b0d43[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: version_1[m[33m)[m
+Author: santiagoalamo <santiagoalamo@hotmail.com>
+Date:   Sun May 26 09:30:21 2024 -0300
+
+    antes pruebas de TAG
+
+[33mcommit 5130ea5714374a8fdd6dfad2137577f2d1840710[m
+Author: santiagoalamo <santiagoalamo@hotmail.com>
+Date:   Sat May 25 19:27:02 2024 -0300
+
+    subo el resto de cambios
+
+[33mcommit 8bc01819bda64d61b30c3602f6b221829bd02dfe[m
+Author: santiagoalamo <santiagoalamo@hotmail.com>
+Date:   Sat May 25 19:26:06 2024 -0300
+
+    agrego gitignore ocultando ccc
+
+[33mcommit 15b1017e35e8cf9be76a00298a1be145cf07e6d2[m
+Author: santiagoalamo <santiagoalamo@hotmail.com>
+Date:   Thu May 23 20:45:35 2024 -0300
+
+    hice un par de agregados. espero que esto funcione
+
+[33mcommit 1ef976f6ea0fb5fd6e7a6ef4cbe217148eca981c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: santiagoalamo <santiagoalamo@hotmail.com>
+Date:   Thu May 23 20:08:49 2024 -0300
+
+    Edit README.md and prueba.txt
+
+[33mcommit b787b76ceb114d5da5913b1d18554ded30bae91c[m
+Author: santiagoalamo <santiagoalamo@hotmail.com>
+Date:   Thu May 23 19:53:37 2024 -0300
+
+    Add prueba.txt
+
+[33mcommit f6007bbdde5f1904a361c0fec3149d58624a2fa3[m
+Author: santiagoalamo <santiagoalamo@hotmail.com>
+Date:   Thu May 23 19:35:05 2024 -0300
+
+    Add hello_word.txt
+
+[33mcommit 9a43c27c3fff4e4b184275409673f8372425b077[m
+Author: santiagoalamo <33637128+santiagoalamo@users.noreply.github.com>
+Date:   Thu May 23 08:45:36 2024 -0300
+
+    Initial commit
